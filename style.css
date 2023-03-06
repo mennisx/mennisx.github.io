@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: lightgreen;
+}
+
+a:hover {;
+    text-decoration: underline;
+}
