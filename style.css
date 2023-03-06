@@ -7,10 +7,6 @@ h1 {
     text-align: center;
 }
 
-ul {
-    color: black;
-}
-
 a {
     text-decoration: none;
     color: lightgreen;
@@ -18,4 +14,9 @@ a {
 
 a:hover {;
     text-decoration: underline;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
 }
